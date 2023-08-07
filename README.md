@@ -1,4 +1,4 @@
-# Animado com novos aprendizados e novas tecnologias💻📚
+## Animado com novos aprendizados e novas tecnologias💻📚
 
 <div>
  <p align="start">
